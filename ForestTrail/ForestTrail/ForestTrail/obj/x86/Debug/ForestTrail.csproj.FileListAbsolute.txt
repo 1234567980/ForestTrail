@@ -1,0 +1,305 @@
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\ForestTrail.exe
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\ForestTrail.pdb
+G:\ForestTrail\ForestTrail\ForestTrail\obj\x86\Debug\ForestTrail.csprojResolveAssemblyReference.cache
+G:\ForestTrail\ForestTrail\ForestTrail\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\ForestTrail\ForestTrail\ForestTrail\obj\x86\Debug\ForestTrail.exe
+G:\ForestTrail\ForestTrail\ForestTrail\obj\x86\Debug\ForestTrail.pdb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Particles\Circle.xnb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Particles\Star.xnb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\ForestTrail.exe
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\ForestTrail.pdb
+F:\ForestTrail\ForestTrail\ForestTrail\obj\x86\Debug\ForestTrail.csprojResolveAssemblyReference.cache
+F:\ForestTrail\ForestTrail\ForestTrail\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\ForestTrail\ForestTrail\ForestTrail\obj\x86\Debug\ForestTrail.exe
+F:\ForestTrail\ForestTrail\ForestTrail\obj\x86\Debug\ForestTrail.pdb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\CharActions\Left\LeftJump.xnb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\CharActions\Left\LeftStanding.xnb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\CharActions\Right\RightJump.xnb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\CharActions\Right\RightStanding.xnb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\CharActions\Right\RightAttack.xnb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\CharActions\Right\RightRun.xnb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\CharActions\Left\LeftAttack.xnb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\CharActions\Left\LeftRun.xnb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Background\LightBackgrnd.xnb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Background\DarkBackgrnd.xnb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Platforms\PfFull.xnb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Platforms\PfHalf.xnb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Particles\Fire.xnb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Obstacles\Fire.xnb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Obstacles\FireHead.xnb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Obstacles\Blob.xnb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Buttons\LeaderboardBttn.xnb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Buttons\LeftBttn.xnb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Buttons\LoadBttn.xnb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Buttons\PlayAgainBttn.xnb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Buttons\PlayBttn.xnb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Buttons\QuitBttn.xnb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Buttons\RightBttn.xnb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Buttons\SaveBttn.xnb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Buttons\XBttn.xnb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Titles\CompanyName.xnb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Titles\GameTitle.xnb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\GameTitleScreen.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Buttons\LeaderboardBttn.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Buttons\LeftBttn.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Buttons\LoadBttn.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Buttons\PlayAgainBttn.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Buttons\PlayBttn.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Buttons\QuitBttn.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Buttons\RightBttn.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Buttons\SaveBttn.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Buttons\XBttn.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Particles\Circle.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Particles\Star.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\CharActions\Left\LeftJump.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\CharActions\Left\LeftStanding.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\CharActions\Right\RightJump.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\CharActions\Right\RightStanding.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\CharActions\Right\RightRun.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\CharActions\Left\LeftAttack.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\CharActions\Left\LeftRun.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\CharActions\Right\RightAttack.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Background\LightBackgrnd.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Background\DarkBackgrnd.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Platforms\PfFull.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Platforms\PfHalf.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Obstacles\Blob.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Obstacles\Fire.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Obstacles\FireHead.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Titles\CompanyName.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Titles\GameTitle.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\GameTitleScreen.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Particles\Fire.xnb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\SoundEffects\BonusObtained.xnb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\SoundEffects\BurnedSE.xnb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\SoundEffects\ButtonClickedSE.xnb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\Music\DarkGameMusic.xnb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\SoundEffects\FireBreathSE.xnb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\SoundEffects\JabSE.xnb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\Music\LightGameMusic.xnb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\Music\MenuMusic.xnb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\SoundEffects\GameOverSE.xnb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\SoundEffects\SuccessSE.xnb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\Music\DarkGameMusic.wma
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\Music\LightGameMusic.wma
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\Music\MenuMusic.wma
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\Music\GameEndMusic.xnb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\SoundEffects\BounceSE.xnb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\SoundEffects\LandingSe.xnb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\Music\GameEndMusic.wma
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Buttons\ResumeBttn.xnb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Buttons\+Bttn.xnb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Buttons\-Bttn.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Buttons\ResumeBttn.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Buttons\+Bttn.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Buttons\-Bttn.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\Music\DarkGameMusic.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\Music\LightGameMusic.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\Music\MenuMusic.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\Music\GameEndMusic.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\SoundEffects\BonusObtained.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\SoundEffects\BounceSE.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\SoundEffects\BurnedSE.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\SoundEffects\ButtonClickedSE.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\SoundEffects\FireBreathSE.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\SoundEffects\GameOverSE.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\SoundEffects\JabSE.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\SoundEffects\SuccessSE.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\SoundEffects\LandingSE.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\Music\DarkGameMusic.wma
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\Music\LightGameMusic.wma
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\Music\MenuMusic.wma
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\Music\GameEndMusic.wma
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Misc\DoorImg.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Misc\DoorImg.xnb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Background\LightBackgrnd2.xnb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Font\Font.xnb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\Buttons\LeaderboardBttn.xnb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\Buttons\LeftBttn.xnb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\Buttons\LoadBttn.xnb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\Buttons\PlayAgainBttn.xnb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\Buttons\PlayBttn.xnb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\Buttons\QuitBttn.xnb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\Buttons\RightBttn.xnb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\Buttons\SaveBttn.xnb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\Buttons\XBttn.xnb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\Particles\Circle.xnb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\Particles\Star.xnb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\CharActions\Left\LeftJump.xnb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\CharActions\Left\LeftStanding.xnb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\CharActions\Right\RightJump.xnb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\CharActions\Right\RightStanding.xnb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\CharActions\Right\RightRun.xnb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\CharActions\Left\LeftAttack.xnb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\CharActions\Left\LeftRun.xnb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\CharActions\Right\RightAttack.xnb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\Background\LightBackgrnd.xnb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\Background\DarkBackgrnd.xnb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\Platforms\PfFull.xnb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\Platforms\PfHalf.xnb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\Obstacles\Blob.xnb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\Obstacles\Fire.xnb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\Obstacles\FireHead.xnb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\Titles\CompanyName.xnb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\Titles\GameTitle.xnb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\GameTitleScreen.xnb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\Particles\Fire.xnb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\Buttons\ResumeBttn.xnb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\Buttons\+Bttn.xnb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\Buttons\-Bttn.xnb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\Misc\DoorImg.xnb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\Background\LightBackgrnd2.xnb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\Music\DarkGameMusic.xnb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\Music\LightGameMusic.xnb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\Music\MenuMusic.xnb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\Music\GameEndMusic.xnb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\SoundEffects\BonusObtained.xnb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\SoundEffects\BounceSE.xnb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\SoundEffects\BurnedSE.xnb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\SoundEffects\ButtonClickedSE.xnb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\SoundEffects\FireBreathSE.xnb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\SoundEffects\GameOverSE.xnb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\SoundEffects\JabSE.xnb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\SoundEffects\SuccessSE.xnb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\SoundEffects\LandingSE.xnb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\Font\Font.xnb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\Music\DarkGameMusic.wma
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\Music\LightGameMusic.wma
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\Music\MenuMusic.wma
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\Music\GameEndMusic.wma
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\ForestTrail.exe
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\ForestTrail.pdb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\obj\x86\Debug\ForestTrail.csprojResolveAssemblyReference.cache
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\obj\x86\Debug\ForestTrail.exe
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\obj\x86\Debug\ForestTrail.pdb
+G:\ForestTrail - Copy\ForestTrail\ForestTrail\bin\x86\Debug\Content\Misc\SaveSign.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Misc\SaveSign.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Background\LightBackgrnd2.xnb
+G:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Font\Font.xnb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Misc\SaveSign.xnb
+F:\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Buttons\ReturnBttn.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Buttons\LeaderboardBttn.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Buttons\LeftBttn.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Buttons\PlayAgainBttn.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Buttons\PlayBttn.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Buttons\QuitBttn.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Buttons\RightBttn.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Buttons\SaveBttn.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Buttons\XBttn.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Particles\Circle.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Particles\Star.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\CharActions\Left\LeftJump.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\CharActions\Left\LeftStanding.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\CharActions\Right\RightJump.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\CharActions\Right\RightStanding.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\CharActions\Right\RightRun.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\CharActions\Left\LeftAttack.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\CharActions\Left\LeftRun.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\CharActions\Right\RightAttack.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Background\LightBackgrnd.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Background\DarkBackgrnd.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Platforms\PfFull.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Platforms\PfHalf.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Obstacles\Blob.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Obstacles\Fire.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Obstacles\FireHead.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Titles\CompanyName.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Titles\GameTitle.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Background\GameTitleScreen.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Particles\Fire.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Buttons\ResumeBttn.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Buttons\+Bttn.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Buttons\-Bttn.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Misc\SaveSign.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Misc\DoorImg.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Background\LightBackgrnd2.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Buttons\LoadBttn.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Buttons\ReturnBttn.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Misc\BlueRec.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\Music\DarkGameMusic.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\Music\LightGameMusic.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\Music\MenuMusic.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\SoundEffects\BonusObtained.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\SoundEffects\BounceSE.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\SoundEffects\BurnedSE.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\SoundEffects\ButtonClickedSE.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\SoundEffects\FireBreathSE.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\SoundEffects\GameOverSE.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\SoundEffects\JabSE.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\SoundEffects\SuccessSE.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\SoundEffects\LandingSE.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Font\Font.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\Music\DarkGameMusic.wma
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\Music\LightGameMusic.wma
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\Music\MenuMusic.wma
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\ForestTrail.exe
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\ForestTrail.pdb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\obj\x86\Debug\ForestTrail.csprojResolveAssemblyReference.cache
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\obj\x86\Debug\ForestTrail.exe
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\obj\x86\Debug\ForestTrail.pdb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Buttons\LeaderboardBttn.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Buttons\LeftBttn.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Buttons\PlayAgainBttn.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Buttons\PlayBttn.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Buttons\QuitBttn.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Buttons\RightBttn.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Buttons\SaveBttn.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Buttons\XBttn.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Particles\Circle.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Particles\Star.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\CharActions\Left\LeftJump.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\CharActions\Left\LeftStanding.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\CharActions\Right\RightJump.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\CharActions\Right\RightStanding.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\CharActions\Right\RightRun.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\CharActions\Left\LeftAttack.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\CharActions\Left\LeftRun.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\CharActions\Right\RightAttack.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Background\LightBackgrnd.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Background\DarkBackgrnd.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Platforms\PfFull.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Platforms\PfHalf.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Obstacles\Blob.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Obstacles\Fire.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Obstacles\FireHead.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Titles\CompanyName.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Titles\GameTitle.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Background\GameTitleScreen.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Particles\Fire.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Buttons\ResumeBttn.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Buttons\+Bttn.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Buttons\-Bttn.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Misc\SaveSign.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Misc\DoorImg.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Background\LightBackgrnd2.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Buttons\LoadBttn.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Buttons\ReturnBttn.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Misc\BlueRec.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Buttons\MuteBttn.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Buttons\SoundBttn.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\Music\DarkGameMusic.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\Music\LightGameMusic.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\Music\MenuMusic.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\SoundEffects\BonusObtained.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\SoundEffects\BounceSE.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\SoundEffects\BurnedSE.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\SoundEffects\ButtonClickedSE.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\SoundEffects\FireBreathSE.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\SoundEffects\GameOverSE.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\SoundEffects\JabSE.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\SoundEffects\SuccessSE.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\SoundEffects\LandingSE.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Font\Font.xnb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\Music\DarkGameMusic.wma
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\Music\LightGameMusic.wma
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Audio\Music\MenuMusic.wma
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\ForestTrail.exe
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\ForestTrail.pdb
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\obj\x86\Debug\ForestTrail.csprojResolveAssemblyReference.cache
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\obj\x86\Debug\ForestTrail.exe
+F:\Programming\ForestTrail\ForestTrail\ForestTrail\obj\x86\Debug\ForestTrail.pdb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Buttons\MuteBttn.xnb
+G:\Programming\ForestTrail\ForestTrail\ForestTrail\bin\x86\Debug\Content\Images\Buttons\SoundBttn.xnb
